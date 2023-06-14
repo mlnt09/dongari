@@ -1,35 +1,29 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 body {
     display: flex;
     justify-content: center;
 }
 #first {
-    background-color: tomato;
-    width: 980px;
-    height: 111px;
-    margin-left: auto;
-    margin-right: auto;
-    display: flex;
-    justify-content: right;
-    align-items: center;
+  background-color: tomato;
+  width: 100vw;
+  height: 10vh;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
 }
-
 ul {
-    width: 70%;
-    list-style: none;
-    display: flex;
-    justify-content: right;
+  list-style: none;
+  display: flex;
+  height: 12px;
 }
-
-
 a {
-    text-decoration: none;
-    color:blue;
+  text-decoration: none;
+  color: blue;
 }
 #logo {
-    width: 237px;
-    height: 54px;
+  width: 237px;
+  height: 54px;
 }
